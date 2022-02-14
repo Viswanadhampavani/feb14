@@ -1,0 +1,9 @@
+n1=int(input ('enter any positive number')) 
+Sum=0
+While n1! =0:
+sum=sum+n%10
+n1=int(n1/10) 
+Print('sum of digits of number=',sum) 
+OUTPUT:
+Enter any positive number:567
+Sum of digits of number:18
