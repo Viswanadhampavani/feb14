@@ -1,0 +1,9 @@
+count = 0
+number=int (input ('Enter a number')) 
+While (number>0) :
+number = number//10
+Count = count+1
+Print('total number of digits:'count) 
+OUTPUT:
+Enter a number:5678
+Total number of digits:4
